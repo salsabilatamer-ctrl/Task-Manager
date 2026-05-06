@@ -133,11 +133,11 @@ body {
 }
 
 #task-list .completed span {
-  text-decoration: 2px line-through #b45661;
+  text-decoration: 2px line-through #391519;
   
 }
 #task-list li .checkbox:checked {
-  background: #b45661;
+  background: #391519;
   border: none;
 }
 #task-list li .checkbox {
